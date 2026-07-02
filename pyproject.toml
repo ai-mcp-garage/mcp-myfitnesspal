@@ -56,6 +56,10 @@ dev = [
 [project.scripts]
 mcp-myfitnesspal = "mfp_mcp.server:main"
 
+[project.urls]
+Repository = "https://github.com/ai-mcp-garage/mcp-myfitnesspal"
+OriginalProject = "https://github.com/AdamWalt/myfitnesspal-mcp-python"
+
 [tool.hatch.build.targets.wheel]
 packages = ["src/mfp_mcp"]
 
