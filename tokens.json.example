@@ -1,0 +1,13 @@
+{
+  "_comment": "This file is a placeholder for future OAuth token storage.",
+  "_note": "Currently, this MCP authenticates via browser cookies (Chrome/Firefox).",
+  "_instructions": "No tokens needed - just log into myfitnesspal.com in your browser.",
+  
+  "oauth": {
+    "client_id": "",
+    "client_secret": "",
+    "access_token": "",
+    "refresh_token": "",
+    "expires_at": ""
+  }
+}
